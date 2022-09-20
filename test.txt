@@ -13,7 +13,6 @@ void g() {
 int main() {
 	cout<<"hello, world"<<endl;
 	cout<<"testing....."<<endl;
-
 	t();
 	g();
 	return 0;
