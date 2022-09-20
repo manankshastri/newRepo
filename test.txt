@@ -2,8 +2,19 @@
 
 using namespace std;
 
+void t() {
+	cout<<"t..."<<endl;
+}
+
+void g() {
+	cout<<"g..."<<endl;
+}
+
 int main() {
 	cout<<"hello, world"<<endl;
 	cout<<"testing....."endl;
+
+	t();
+	g();
 	return 0;
 }
