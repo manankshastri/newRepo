@@ -10,10 +10,15 @@ void g() {
 	cout<<"g..."<<endl;
 }
 
+void h() {
+	cout<<"h..."<<endl;
+}
+
 int main() {
 	cout<<"hello, world"<<endl;
 	cout<<"testing....."<<endl;
 	t();
 	g();
+	h();
 	return 0;
 }
