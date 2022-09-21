@@ -17,7 +17,8 @@ void h() {
 int main() {
 	cout<<"hello, world"<<endl;
 	cout<<"testing....."<<endl;
-	g();
+	cout<<"now what...\n";
+	t();
 	g();
 	h();
 	return 0;
