@@ -8,6 +8,10 @@ void l() {
 	std::cout<<"l..."<<std::endl;
 }
 
+void k() {
+	std::cout<<"k..."<<std::endl;
+}
+
 int main() {
 	std::cout<<"hello, world"<<std::endl;
 	std::cout<<"testing....."<<std::endl;
