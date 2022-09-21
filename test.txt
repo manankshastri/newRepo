@@ -13,7 +13,8 @@ int main() {
 	cout<<"nothing...."<<endl;
 	cout<<"not sure..."<<endl;
 
-	t();
-
+	for (int i = 0; i < 5; i++)
+		t();
+		
 	return 0;
 }
