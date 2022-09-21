@@ -6,29 +6,14 @@ void t() {
 	cout<<"t..."<<endl;
 }
 
-void g() {
-	cout<<"g..."<<endl;
-}
-
-void h() {
-	cout<<"h..."<<endl;
-}
-
-void p() {
-	cout<<"p..."<<endl;
-}
-
 int main() {
 	cout<<"hello, world"<<endl;
 	cout<<"testing....."<<endl;
 	cout<<"now what..."<<endl;
 	cout<<"nothing...."<<endl;
 	cout<<"not sure..."<<endl;
+
 	t();
-	g();
-	h();
-	p();
-	p();
-	h();
+
 	return 0;
 }
