@@ -19,6 +19,7 @@ int main() {
 	cout<<"hello, world"<<endl;
 	cout<<"testing....."<<endl;
 	cout<<"now what...\n";
+	cout<<"nothing....\n";
 	t();
 	g();
 	h();
