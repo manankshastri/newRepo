@@ -15,6 +15,10 @@ void h() {
 	cout<<"h..."<<endl;
 }
 
+void p() {
+	cout<<"p..."<<endl;
+}
+
 int main() {
 	cout<<"hello, world"<<endl;
 	cout<<"testing....."<<endl;
@@ -23,5 +27,6 @@ int main() {
 	t();
 	g();
 	h();
+	p();
 	return 0;
 }
