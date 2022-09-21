@@ -1,11 +1,6 @@
 #include <iostream>
-#include <chrono>
 
 using namespace std;
-
-void a() {
-	cout<<"a....."<<endl;
-}
 
 void t() {
 	cout<<"t..."<<endl;
@@ -28,7 +23,7 @@ int main() {
 	cout<<"testing....."<<endl;
 	cout<<"now what..."<<endl;
 	cout<<"nothing...."<<endl;
-	a();
+	cout<<"not sure..."<<endl;
 	t();
 	g();
 	h();
