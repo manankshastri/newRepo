@@ -18,8 +18,8 @@ void h() {
 int main() {
 	cout<<"hello, world"<<endl;
 	cout<<"testing....."<<endl;
-	cout<<"now what...\n";
-	cout<<"nothing....\n";
+	cout<<"now what..."<<endl;
+	cout<<"nothing...."<<endl;
 	t();
 	g();
 	h();
