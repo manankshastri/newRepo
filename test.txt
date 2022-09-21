@@ -28,5 +28,7 @@ int main() {
 	g();
 	h();
 	p();
+	p();
+	h();
 	return 0;
 }
