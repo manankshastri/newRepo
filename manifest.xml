@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote
+      name="github"
+      fetch="https://github.com/manankshastri/" />
+
+  <default
+      remote="github"
+      revision="main" />
+
+  <project
+      name="ConcurrentTrafficSimulation"
+      path="https://github.com/manankshastri/ConcurrentTrafficSimulation" />
+
+  <project
+      name="RoutePlanningProject"
+      path="http://github.com/manankshastri/RoutePlanningProject" />
+
+</manifest>
